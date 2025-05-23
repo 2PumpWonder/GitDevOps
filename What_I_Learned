@@ -1,0 +1,13 @@
+Wat ik heb geleerd in de afgelopen drie Git-workshops:
+
+- Hoe ik met Git versies van mijn code kan beheren.
+- Hoe ik bestanden kan toevoegen, wijzigen en verwijderen binnen een repository.
+- Hoe ik een nieuwe branch aanmaak, naar een andere branch switch en branches hernoem.
+- Hoe ik mijn wijzigingen commit met duidelijke berichten.
+- Hoe ik mijn werk naar een remote repository push via GitHub.
+
+Wat ik nog zou willen leren:
+
+- Hoe je merge-conflicten oplost als meerdere mensen aan hetzelfde bestand werken.
+- Hoe je het beste je commits structureert in een groter project.
+- Hoe je een goede workflow opzet met meerdere ontwikkelaars (bijv. feature branches, pull requests).
